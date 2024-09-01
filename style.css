@@ -6,7 +6,15 @@ body {
     margin: 0;
     background-color: #000000;
 }
-
+.title {
+    color: #c9226a;
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+    margin-left: 20%;
+    font-family: 'GERALDINE PERSONAL USE';
+    src: url('geraldine-personal-use.italic.ttf');
+}
 .container {
     position: relative;
     width: 100%;
